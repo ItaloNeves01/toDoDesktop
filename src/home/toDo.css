@@ -1,0 +1,15 @@
+#notesContainer{
+    border: solid 2px red;
+    height: 70%;
+    width: 100%;
+}
+
+#notesApp{
+    height: 1000px;
+    width: 1000px;
+}
+
+.red-border{
+    border: solid 3px black;
+
+}
