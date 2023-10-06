@@ -8,6 +8,7 @@
   },
   "author": "italo neves",
   "license": "GPL-3.0",
+  "type": "commonjs",
   "devDependencies": {
     "electron": "^26.2.4"
   }
